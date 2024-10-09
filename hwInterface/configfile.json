@@ -1,0 +1,7 @@
+{
+	"odor_path":	"/dev/ttyCH9344USB6",
+	"odor_baudrate":	2400,
+	"radar_path":	"/dev/ttyCH9344USB5",
+	"radar_baudrate":	115200,
+	"temp_path":	"/dev/ds18b20"
+}
